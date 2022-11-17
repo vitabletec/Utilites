@@ -14,9 +14,6 @@
             "Utilities\\": "src/"
         }
     },
-    "require": {
-        "php": ">=5.5"
-    },
     "config": {
         "sort-packages": true
     },
