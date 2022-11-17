@@ -5,7 +5,6 @@
  - We have create a function as similar to php just add "s" in every function name s is stand for stuff
  - it will help us to no need to remember function of this class
  - just add add write php function start with s
- - 
  - @author Mayank singh kushwah
  - @email <msrajawat298@gmail.com>
  - website : www.mayanksinghkushwah.in
