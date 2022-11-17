@@ -1,6 +1,6 @@
 {
     "name": "stuff/utilites",
-    "description": "test",
+    "description": "Utilities is class which help you to debug and common daily uses required function.",
     "type": "library",
     "license": "MIT",
     "authors": [
