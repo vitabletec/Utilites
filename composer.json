@@ -1,5 +1,5 @@
 {
-    "name": "stuff/utilites",
+    "name": "stuff/utilities",
     "description": "Utilities is class which help you to debug and common daily uses required function.",
     "type": "library",
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Utilities\\": "src/"
+            "stuff\\": "src/"
         }
     },
     "config": {
