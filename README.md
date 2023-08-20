@@ -8,6 +8,7 @@
  - @author Mayank singh kushwah
  - @email <msrajawat298@gmail.com>
  - website : [vitabletech.in](https://vitabletech.in/)
+ - You can Download or check our package on [packagist](https://packagist.org/packages/stuff/utilities)
  
 ## Installation
 
