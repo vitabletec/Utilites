@@ -7,7 +7,7 @@
  - just add add write php function start with s
  - @author Mayank singh kushwah
  - @email <msrajawat298@gmail.com>
- - website : www.mayanksinghkushwah.in
+ - website : [vitabletech.in](https://vitabletech.in/)
  
 ## Installation
 
